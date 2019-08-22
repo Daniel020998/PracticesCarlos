@@ -1,5 +1,5 @@
 {
-  "name": "practicescarlos",
+  "name": "carlos",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,11 +9,14 @@
     "type": "git",
     "url": "git+https://github.com/Daniel020998/PracticesCarlos.git"
   },
-  "author": "",
+  "author": "CarlosTorres",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Daniel020998/PracticesCarlos/issues"
   },
   "homepage": "https://github.com/Daniel020998/PracticesCarlos#readme",
-  "description": ""
+  "description": "firstPractice",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
